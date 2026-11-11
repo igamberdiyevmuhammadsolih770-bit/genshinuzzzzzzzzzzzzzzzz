@@ -1,0 +1,269 @@
+{
+  "iconIndex": "https://github.com/theBowja/genshin-db/blob/main/src/data/image/enemies.json",
+  "images": [
+    {
+      "id": "hilichurl",
+      "variant": "hilichurl",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Hili_None_01.png",
+      "file": "/mobs/hilichurl.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "mitachurl",
+      "variant": "blazingaxemitachurl",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Brute_None_01.png",
+      "file": "/mobs/mitachurl.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "lawachurl",
+      "variant": "frostarmlawachurl",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Brute_Ice_01.png",
+      "file": "/mobs/lawachurl.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "slime",
+      "variant": "largehydroslime",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Slime_Water_03.png",
+      "file": "/mobs/slime.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "ruin_guard",
+      "variant": "ruinguard",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Defender_Noner_01.png",
+      "file": "/mobs/ruin_guard.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "ruin_grader",
+      "variant": "ruingrader",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Konungmathr.png",
+      "file": "/mobs/ruin_grader.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "abyss_mage",
+      "variant": "pyroabyssmage",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Abyss_Fire_01.png",
+      "file": "/mobs/abyss_mage.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "fatui",
+      "variant": "fatuiskirmisheranemoboxervanguard",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01.png",
+      "file": "/mobs/fatui.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "whopperflower",
+      "variant": "pyrowhopperflower",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Mimik_Fire.png",
+      "file": "/mobs/whopperflower.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "regisvine",
+      "variant": "pyroregisvine",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Regisvine_Fire.png",
+      "file": "/mobs/regisvine.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "hypostasis",
+      "variant": "electrohypostasis",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Effigy_Electric.png",
+      "file": "/mobs/hypostasis.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "boreas",
+      "variant": "lupusboreasdominatorofwolves",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_LupiBoreas.png",
+      "file": "/mobs/boreas.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "dvalin",
+      "variant": "stormterror",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Dvalin.png",
+      "file": "/mobs/dvalin.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "childe",
+      "variant": "childe",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Tartaglia.png",
+      "file": "/mobs/childe.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "azhdaha",
+      "variant": "azhdaha",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Dahaka.png",
+      "file": "/mobs/azhdaha.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "scaramouche",
+      "variant": "shoukinokamitheprodigal",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Nada.png",
+      "file": "/mobs/scaramouche.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "ruin_hunter",
+      "variant": "ruinhunter",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Formathr_None.png",
+      "file": "/mobs/ruin_hunter.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "geovishap",
+      "variant": "geovishap",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Drake_Rock.png",
+      "file": "/mobs/geovishap.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "cicin_mage",
+      "variant": "fatuielectrocicinmage",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Fatuus_Summoner_01.png",
+      "file": "/mobs/cicin_mage.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "mirror_maiden",
+      "variant": "mirrormaiden",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png",
+      "file": "/mobs/mirror_maiden.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "eremite",
+      "variant": "eremiteaxevanguard",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Eremite_Female_Hatchet.png",
+      "file": "/mobs/eremite.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "oceanid",
+      "variant": "oceanid",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Oceanid.png",
+      "file": "/mobs/oceanid.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "maguu_kenki",
+      "variant": "maguukenki",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Samurai_Ningyo.png",
+      "file": "/mobs/maguu_kenki.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    },
+    {
+      "id": "golden_wolflord",
+      "variant": "goldenwolflord",
+      "source": "https://res.cloudinary.com/genshin/image/upload/sprites/UI_MonsterIcon_Hound_Planelurker.png",
+      "file": "/mobs/golden_wolflord.webp",
+      "dimensions": [
+        256,
+        256
+      ],
+      "ok": true
+    }
+  ]
+}

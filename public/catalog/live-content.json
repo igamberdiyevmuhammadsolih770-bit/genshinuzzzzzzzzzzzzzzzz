@@ -1,0 +1,81 @@
+{
+  "updatedAt": "2026-10-30T16:47:28.296Z",
+  "news": [
+    {
+      "id": "news-0-2026-10-30",
+      "title": "Genshin Impact kodlari (Oktabr 2026)",
+      "summary": "Yangi Genshin Impact kodlarini ibtido toshlari, Mora va boshqa o'yin ichidagi buyumlar uchun almashtiring.",
+      "date": "2026-10-30",
+      "category": "Yangilik",
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "image": "/news-images/news-0.webp",
+      "imageKind": "article",
+      "originalImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/04/genshin-impact-codes-redeem-1.jpg"
+    },
+    {
+      "id": "news-1-2026-10-23",
+      "title": "Genshin Impact tilak chaqirig‘i - joriy, keyingi va tilak tarixi",
+      "summary": "Joriy Genshin Impact tilak chaqirig‘i qancha davom etishi va keyingi tilak chaqirig‘ida ibtido toshlari yordamida kimlarni olish mumkinligini bilib oling.",
+      "date": "2026-10-23",
+      "category": "Yangilik",
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/next-banner-schedule-event-wishes",
+      "image": "/news-images/news-1.webp",
+      "imageKind": "article",
+      "originalImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/genshin-impact-banner-vesna.jpg"
+    }
+  ],
+  "codes": [
+    {
+      "code": "PJ2KEBRAYSRM",
+      "rewards": "Oltmish ibtido toshi va beshta sarguzashtchi tajribasi",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    },
+    {
+      "code": "6LS3F3LS5K87",
+      "rewards": "Yigirma ibtido toshi va oltmish nusxa ko'chirish geodasi",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    },
+    {
+      "code": "NEEIJB764CA3",
+      "rewards": "Oltmish ibtido toshi va beshta sarguzashtchi tajribasi",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    },
+    {
+      "code": "OPERACOLLAB",
+      "rewards": "O'ttiz ibtido toshi, ikkita qahramon tajribasi va yigirma ming mora",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    },
+    {
+      "code": "Y6JYMKV6JKSL",
+      "rewards": "Oltmish ibtido toshi va beshta sarguzashtchi tajribasi",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    },
+    {
+      "code": "GENSHINGIFT",
+      "rewards": "Ellik ibtido toshi va uchta qahramon tajribasi (faqat yangi o'yinchilar uchun)",
+      "expiresAt": null,
+      "sourceUrl": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+      "status": "Manbada topildi",
+      "verifiedAt": "2026-10-30T16:47:28.296Z"
+    }
+  ],
+  "aiAssisted": true,
+  "noteUz": "Ochiq nashr manbalaridan olingan xabarlarni AI o‘zbekchaga tarjima qildi. Kod matni manbada borligi tekshirildi; hisobingizda ishlashi kafolatlanmaydi.",
+  "updateMethod": "publisher-feed",
+  "contentLanguage": "uz-Latn"
+}

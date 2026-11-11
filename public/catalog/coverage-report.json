@@ -1,0 +1,16 @@
+{
+  "weapons": {
+    "count": 255,
+    "localImages": 255,
+    "unavailableImages": 0,
+    "uniqueIds": 255
+  },
+  "resources": {
+    "count": 1387,
+    "localImages": 1030,
+    "unavailableImages": 357,
+    "uniqueIds": 1387
+  },
+  "imageBytes": 9545940,
+  "checks": "All source IDs preserved; local images decoded successfully; every nonblank image path exists; unavailable icons remain intentional blanks."
+}

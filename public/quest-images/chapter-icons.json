@@ -1,0 +1,602 @@
+{
+  "UI_ChapterIcon_AkaFes": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_AkaFes.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_AkaFes.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Albedo": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Albedo.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Albedo.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Alhatham": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Alhatham.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Alhatham.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Aster": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Aster.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Aster.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Ayaka": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Ayaka.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Ayaka.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Ayato": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Ayato.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Ayato.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Baizhuer": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Baizhuer.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Baizhuer.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Barbara": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Barbara.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Barbara.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Beidou": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Beidou.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Beidou.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Bennett": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Bennett.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Bennett.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_BrickBreaker": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_BrickBreaker.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_BrickBreaker.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Chongyun": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Chongyun.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Chongyun.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Common": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Common.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Common.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Cyno": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Cyno.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Cyno.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Dehya": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Dehya.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Dehya.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Deshret": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Deshret.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Deshret.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Diluc": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Diluc.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Diluc.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Diona": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Diona.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Diona.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Dragonspine": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Dragonspine.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Dragonspine.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Eula": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Eula.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Eula.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Faruzan": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Faruzan.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Faruzan.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_FleurFair": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_FleurFair.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_FleurFair.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_FungusFighter": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_FungusFighter.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_FungusFighter.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Ganyu": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Ganyu.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Ganyu.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Gcg": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Gcg.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Gcg.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_GoldenAppleIsles": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_GoldenAppleIsles.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_GoldenAppleIsles.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Gorou": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Gorou.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Gorou.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Heizo": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Heizo.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Heizo.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Hutao": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Hutao.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Hutao.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Inazuma": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Inazuma.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Inazuma.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Irodori": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Irodori.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Irodori.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Itto": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Itto.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Itto.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Kaeya": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Kaeya.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Kaeya.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Kaveh": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Kaveh.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Kaveh.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Kazuha": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Kazuha.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Kazuha.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Klee": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Klee.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Klee.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Kokomi": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Kokomi.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Kokomi.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Layla": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Layla.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Layla.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Lisa": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Lisa.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Lisa.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Liyue": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Liyue.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Liyue.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_LunaRite": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_LunaRite.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_LunaRite.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Mengde": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Mengde.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Mengde.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_MichiaeMatsuri": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_MichiaeMatsuri.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_MichiaeMatsuri.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Mona": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Mona.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Mona.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Nahida": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Nahida.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Nahida.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Nilou": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Nilou.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Nilou.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Ningguang": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Ningguang.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Ningguang.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Noel": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Noel.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Noel.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_OnmyoMaze": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_OnmyoMaze.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_OnmyoMaze.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_QIN": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_QIN.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_QIN.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Qiqi": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Qiqi.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Qiqi.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Qunyuge": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Qunyuge.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Qunyuge.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Razor": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Razor.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Razor.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_RogueLikeDiary": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_RogueLikeDiary.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_RogueLikeDiary.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Sayu": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Sayu.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Sayu.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_SeaLamp": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_SeaLamp.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_SeaLamp.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Shinobu": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Shinobu.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Shinobu.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Shougun": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Shougun.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Shougun.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Sumeru": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Sumeru.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Sumeru.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_SummerTimeV2": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_SummerTimeV2.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_SummerTimeV2.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Tartaglia": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Tartaglia.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Tartaglia.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Tighnari": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Tighnari.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Tighnari.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Tohma": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Tohma.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Tohma.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Traveler": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Traveler.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Traveler.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Venti": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Venti.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Venti.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Vintage": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Vintage.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Vintage.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_WinterCamp": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_WinterCamp.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_WinterCamp.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Xiangling": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Xiangling.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Xiangling.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Xiao": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Xiao.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Xiao.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Xingqiu": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Xingqiu.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Xingqiu.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Yae": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Yae.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Yae.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Yelan": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Yelan.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Yelan.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Yoimiya": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Yoimiya.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Yoimiya.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Yunjin": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Yunjin.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Yunjin.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  },
+  "UI_ChapterIcon_Zhongli": {
+    "image": "/quest-images/chapters/UI_ChapterIcon_Zhongli.webp",
+    "source": "https://enka.network/ui/UI_ChapterIcon_Zhongli.png",
+    "dimensions": [
+      256,
+      256
+    ]
+  }
+}

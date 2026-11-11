@@ -1,0 +1,27 @@
+{
+  "copyright": "Official Genshin Impact website audio \u00a9 HoYoverse / COGNOSPHERE. Unofficial fan-site usage.",
+  "source_bundle": "https://genshin.hoyoverse.com/_nuxt/fd75b4a.js",
+  "titleNote": "Official homepage background music. Exact track title not supplied by source.",
+  "assets": [
+    {
+      "file": "genshin-theme.mp3",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/medias/video-bgm.d8637316.mp3",
+      "bytes": 3013665
+    },
+    {
+      "file": "desk-ambient.mp3",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/medias/desk-bgm.e1c8e207.mp3",
+      "bytes": 1323681
+    },
+    {
+      "file": "desk-enter.mp3",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/medias/desk-enter.d8a5591c.mp3",
+      "bytes": 81825
+    },
+    {
+      "file": "vision-open.mp3",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/medias/eye-click.a3aab4fa.mp3",
+      "bytes": 48417
+    }
+  ]
+}

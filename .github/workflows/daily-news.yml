@@ -1,0 +1,33 @@
+name: Verify Genshin news daily
+on:
+  schedule:
+    - cron: '0 3 * * *' # 08:00 Asia/Tashkent
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: genshin-daily-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Search Google, verify sources, and save Uzbek news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: node scripts/update-content.mjs
+      - name: Commit verified content
+        run: |
+          git config user.name 'genshin-news-bot'
+          git config user.email 'genshin-news-bot@users.noreply.github.com'
+          git add public/catalog/live-content.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update verified Genshin news"
+            git push
+          fi

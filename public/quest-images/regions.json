@@ -1,0 +1,44 @@
+{
+  "Mondstadt": {
+    "image": "/quest-images/regions/mondstadt-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  },
+  "Liyue": {
+    "image": "/quest-images/regions/liyue-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  },
+  "Inazuma": {
+    "image": "/quest-images/regions/inazuma-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  },
+  "Sumeru": {
+    "image": "/quest-images/regions/sumeru-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  },
+  "Fontaine": {
+    "image": "/quest-images/regions/fontaine-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  },
+  "Natlan": {
+    "image": "/quest-images/regions/natlan-map.webp",
+    "source": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+    "label": "Hudud xaritasi",
+    "kind": "region",
+    "noteUz": "Rasmiy Teyvat xaritasidan hudud markazi atrofi kesib olindi; aniq missiya koordinatasi emas."
+  }
+}

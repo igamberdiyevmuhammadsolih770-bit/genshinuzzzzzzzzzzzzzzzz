@@ -1,0 +1,71 @@
+{
+  "copyright": "Genshin Impact artwork © HoYoverse / COGNOSPHERE. Unofficial fan project.",
+  "extracted_from": "https://genshin.hoyoverse.com/_nuxt/fd75b4a.js",
+  "assets": [
+    {
+      "file": "dandelion-v2.6e7e4d64.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/dandelion-v2.6e7e4d64.png",
+      "bytes": 7084
+    },
+    {
+      "file": "desk.934fe301.jpg",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/desk.934fe301.jpg",
+      "bytes": 186907
+    },
+    {
+      "file": "dust.9f4d0026.jpg",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/dust.9f4d0026.jpg",
+      "bytes": 1947
+    },
+    {
+      "file": "dust2.21384362.jpg",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/dust2.21384362.jpg",
+      "bytes": 1518
+    },
+    {
+      "file": "eye-arrow.bf233eae.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/eye-arrow.bf233eae.png",
+      "bytes": 4568
+    },
+    {
+      "file": "eye-glow.a67cacb5.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/eye-glow.a67cacb5.png",
+      "bytes": 28919
+    },
+    {
+      "file": "eye-lens.b37a1c21.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/eye-lens.b37a1c21.png",
+      "bytes": 10650
+    },
+    {
+      "file": "eye-shine.bd8f46de.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/eye-shine.bd8f46de.png",
+      "bytes": 70644
+    },
+    {
+      "file": "eye.b1681dc3.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/eye.b1681dc3.png",
+      "bytes": 74166
+    },
+    {
+      "file": "light.36a84792.jpg",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/light.36a84792.jpg",
+      "bytes": 5464
+    },
+    {
+      "file": "loading-bar.59c35c04.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/loading-bar.59c35c04.png",
+      "bytes": 22829
+    },
+    {
+      "file": "logo-gray-v2.246eaf58.png",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/logo-gray-v2.246eaf58.png",
+      "bytes": 20976
+    }
+  ],
+  "usage_notes": {
+    "desk": "2048x1024 (2:1). Pendant already baked into background. Center approximately 55% x,48.5% y. Full pendant bounds approximately47.5–64.5%x,36–61%y. Click/glow overlay must use same cover-scaling plane.",
+    "element_icons": "element-*.png are 7 sequential crops of official loading-bar PNG (Pyro,Hydro,Anemo,Electro,Dendro,Cryo,Geo). Gray active style can use CSS brightness/grayscale.",
+    "logo": "logo-gray-v2.246eaf58.png is English official gray logo, transparent 640x400 canvas."
+  }
+}
