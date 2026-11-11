@@ -26,3 +26,5 @@ Ranglar menyusida to‘rtta mavzu bor. Tanlov va bajarilgan missiyalar qurilmada
 O‘yin, musiqa va tasvirlarning huquqlari HoYoverse hamda tegishli mualliflarga tegishli. Manbalar rasm indekslari va kataloglarda saqlangan.
 
 # genshinuz
+
+# genshinuzzb
